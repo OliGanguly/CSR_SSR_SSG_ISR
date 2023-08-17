@@ -1,4 +1,4 @@
-## what is CSR SSG SSR ISR
+## What is CSR SSG SSR ISR
 # CSR_SSR_SSG_ISR
 New web dev terms
 - CSP: Client side rendering
