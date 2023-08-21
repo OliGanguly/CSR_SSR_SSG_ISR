@@ -23,6 +23,8 @@ New web dev terms
 3. Clint -> A blank html page send to the client , after this it throws some JS to the client ,
          Once the js reaches to the client , Now its job is to render the webpage, if it requires some Js it 
          requests to the server again.
+
+Component rendering happen in client side
 ```
 * SSR: Server Side Rendering
 ```bash
@@ -33,6 +35,9 @@ in client side.EveryTime Clent send a Req a new web page created , rendered on t
 
 3. Clint -> Request is being sent from client to server , Server
 takes the req, download all info, data from DB , paints a page and sent back to client , so toatl html, css , js go to the Clint in one go.
+
+Component rendering happen in server side
+
 ```
 * SSG: Static Site Generation
 ```bash
